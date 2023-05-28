@@ -1,0 +1,35 @@
+
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-0.5%" y="-12.5%" width="101.0%" height="125.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.07 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Normal-User-side" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1010_All-Actions" transform="translate(-301.000000, -16.000000)" stroke="#F0F4F8">
+            <g id="Navbar" filter="url(#filter-1)">
+                <g id="Group-4" transform="translate(303.000000, 18.000000)">
+                    <g id="Stacked-Group">
+                        <g id="Group-2">
+                            <g id="World" transform="translate(4.000000, 4.000000)">
+                                <circle id="Oval" cx="8" cy="8" r="8"></circle>
+                                <path d="M0,8 L16,8" id="Shape"></path>
+                                <path d="M1.94782609,2.71304348 C2.85217391,3.26956522 4.06956522,4.17391304 8,4.17391304 C11.9304348,4.17391304 12.973913,3.30434783 14.0173913,2.71304348" id="Shape"></path>
+                                <path d="M14.1217391,13.1478261 C13.2521739,12.5913043 11.9304348,11.6173913 8,11.6173913 C4.06956522,11.6173913 2.92173913,12.5565217 1.87826087,13.1478261" id="Shape"></path>
+                                <ellipse id="Oval" cx="8.06956522" cy="8" rx="3.37391304" ry="8"></ellipse>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

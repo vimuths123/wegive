@@ -1,0 +1,24 @@
+
+<svg width="14px" height="18px" viewBox="0 0 14 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Normal-User-side" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1021_My-Profile_My-Givelist" transform="translate(-1189.000000, -861.000000)">
+            <g id="Body_content" transform="translate(145.000000, 343.000000)">
+                <g id="Org" transform="translate(15.000000, 402.000000)">
+                    <g id="list" transform="translate(0.000000, 89.000000)">
+                        <g id="Lock" transform="translate(1028.000000, 28.000000)">
+                            <rect id="Rectangle-3" x="0" y="0" width="16" height="16"></rect>
+                            <g transform="translate(2.000000, 0.000000)" id="Shape">
+                                <path d="M9.04347826,16 L2.7826087,16 C1.24581635,16 3.08931624e-16,14.7541837 0,13.2173913 L0,6.26086957 L11.826087,6.26086957 L11.826087,13.2173913 C11.826087,14.7541837 10.5802706,16 9.04347826,16 Z" stroke="#4A5865" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <path d="M2.43478261,6.26086957 L2.43478261,3.47826087 C2.43478261,1.55727044 3.99205304,3.08931624e-16 5.91304348,0 C7.83403391,7.72329061e-17 9.39130435,1.55727044 9.39130435,3.47826087 L9.39130435,6.26086957" stroke="#4A5865" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <path d="M5.91304348,12.8695652 C5.69938744,12.871771 5.51159404,12.7284172 5.4573913,12.5217391 L4.8973913,10.6504348 C4.83256376,10.343545 4.90922463,10.0237728 5.10615315,9.77963543 C5.30308168,9.53549801 5.59938541,9.39289629 5.91304348,9.39130435 C6.22445905,9.39352541 6.51860652,9.53472484 6.71511453,9.77632201 C6.91162253,10.0179192 6.98995019,10.3346601 6.92869565,10.64 L6.36869565,12.5217391 C6.31449292,12.7284172 6.12669952,12.871771 5.91304348,12.8695652 Z" fill="#4A5865" fill-rule="nonzero"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
